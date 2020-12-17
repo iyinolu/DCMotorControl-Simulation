@@ -8,4 +8,4 @@ A servo system where the speed error directly controls the power electronic conv
 * Four Quadrant DC-DC Power Converter
 * MOSFET Switches
 
-![stack Overflow](overallblock.png)
+![overall model](images/overallblock.png)
