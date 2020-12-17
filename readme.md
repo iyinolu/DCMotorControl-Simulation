@@ -9,5 +9,5 @@ A servo system where the speed error directly controls the power electronic conv
 * MOSFET Switches
 
 
-<img src="images/overallblock.png" width="10">
+<img src="images/overallblock.png" width="700" height="400">
 ![overall model](images/overallblock.png)
