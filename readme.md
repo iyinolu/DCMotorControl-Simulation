@@ -10,3 +10,6 @@ A servo system where the speed error directly controls the power electronic conv
 
 
 <img src="images/overallblock.PNG" width="700" height="400">
+<hr>
+<img src="images/overall system.PNG" width="700" height="400">
+
