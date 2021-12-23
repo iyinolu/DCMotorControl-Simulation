@@ -10,6 +10,5 @@ This simulation emulates a Servo drive system where the speed error directly con
 
 
 <img src="images/overallbloc.PNG" width="700" height="400">
-<hr>
 
 
