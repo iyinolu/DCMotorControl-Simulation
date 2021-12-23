@@ -13,7 +13,7 @@ kic = alphac^2*La; % Integral gain
 r = kpc - Ra; % Active resistance
 Umax = 140; % Saturation: upper limit
 Umin = -140; % Saturation: lower limit
-%% Gains of the 2DOF PI speed controller (for Section 4.2)
+%% Gains of the 2DOF PI speed controller 
 alphas = 0.1*alphac; % Closed?loop bandwidth
 kps = alphas*J; % Proportional gain
 kis = (alphas^2)*J; % Integral gain
