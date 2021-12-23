@@ -1,6 +1,6 @@
 # DC Motor Simulation on Matlab/Simulink
 
-A servo system where the speed error directly controls the power electronic converter (Four-Quadrant DC-DC) is simulated on the Simulink platform. The Simulation involves the following:
+This simulation emulates a Servo drive system where the speed error directly controls the power electronic converter (Four-Quadrant DC-DC). The system is simulated using Simulink in continuous time. The Simulation involves the following key parts:
 
 * Permanent Magnet DC Motor (PMDC)
 * Internal Model PID Controller 
