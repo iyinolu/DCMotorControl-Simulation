@@ -9,6 +9,4 @@ This simulation emulates a Servo drive system where the speed error directly con
 * MOSFET Switches
 
 
-<img src="images/overallbloc.PNG" width="700" height="400">
-
-
+![image](https://user-images.githubusercontent.com/47259302/147218074-c4f5e544-32bf-4720-a410-d24f0eae4c31.png)
